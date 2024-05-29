@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kauavitor02
-- 👀 I’m interested in game deving
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in HTML
+- 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me kauavitor.oficial02@gmail.com
 
 <!---
